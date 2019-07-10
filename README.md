@@ -1,4 +1,4 @@
-ie!# Object Oriented Student Scraper
+# Object Oriented Student Scraper
 
 ## Objectives
 
